@@ -1,0 +1,9 @@
+route_id,route_name,transit_type,distance_km
+R001,Downtown Express,Express,18.5
+R002,Lakeshore Local,Local,14.2
+R003,Airport Connector,Express,27.8
+R004,University Line,Local,11.6
+R005,Industrial Park,Local,16.4
+R006,North-South Rapid,Rapid,24.1
+R007,West Mall Shuttle,Shuttle,9.7
+R008,East Community,Local,13.3

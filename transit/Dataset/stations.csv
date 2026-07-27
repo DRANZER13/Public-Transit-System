@@ -1,0 +1,49 @@
+station_id,station_name,zone,route_id
+S001,Downtown Express Stop 1,Central,R001
+S002,Downtown Express Stop 2,North,R001
+S003,Downtown Express Stop 3,South,R001
+S004,Downtown Express Stop 4,East,R001
+S005,Downtown Express Stop 5,West,R001
+S006,Downtown Express Stop 6,Central,R001
+S007,Lakeshore Local Stop 1,North,R002
+S008,Lakeshore Local Stop 2,South,R002
+S009,Lakeshore Local Stop 3,East,R002
+S010,Lakeshore Local Stop 4,West,R002
+S011,Lakeshore Local Stop 5,Central,R002
+S012,Lakeshore Local Stop 6,North,R002
+S013,Airport Connector Stop 1,South,R003
+S014,Airport Connector Stop 2,East,R003
+S015,Airport Connector Stop 3,West,R003
+S016,Airport Connector Stop 4,Central,R003
+S017,Airport Connector Stop 5,North,R003
+S018,Airport Connector Stop 6,South,R003
+S019,University Line Stop 1,East,R004
+S020,University Line Stop 2,West,R004
+S021,University Line Stop 3,Central,R004
+S022,University Line Stop 4,North,R004
+S023,University Line Stop 5,South,R004
+S024,University Line Stop 6,East,R004
+S025,Industrial Park Stop 1,West,R005
+S026,Industrial Park Stop 2,Central,R005
+S027,Industrial Park Stop 3,North,R005
+S028,Industrial Park Stop 4,South,R005
+S029,Industrial Park Stop 5,East,R005
+S030,Industrial Park Stop 6,West,R005
+S031,North-South Rapid Stop 1,Central,R006
+S032,North-South Rapid Stop 2,North,R006
+S033,North-South Rapid Stop 3,South,R006
+S034,North-South Rapid Stop 4,East,R006
+S035,North-South Rapid Stop 5,West,R006
+S036,North-South Rapid Stop 6,Central,R006
+S037,West Mall Shuttle Stop 1,North,R007
+S038,West Mall Shuttle Stop 2,South,R007
+S039,West Mall Shuttle Stop 3,East,R007
+S040,West Mall Shuttle Stop 4,West,R007
+S041,West Mall Shuttle Stop 5,Central,R007
+S042,West Mall Shuttle Stop 6,North,R007
+S043,East Community Stop 1,South,R008
+S044,East Community Stop 2,East,R008
+S045,East Community Stop 3,West,R008
+S046,East Community Stop 4,Central,R008
+S047,East Community Stop 5,North,R008
+S048,East Community Stop 6,South,R008
