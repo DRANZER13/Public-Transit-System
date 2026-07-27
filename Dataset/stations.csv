@@ -1,0 +1,221 @@
+station_id,station_name,route_id,zone
+1,Carol Overpass Station,39,zone 1
+2,Daniel Lake Station,36,
+3,Allen Garden Station,8,Zone3
+4,Christopher Oval Station,18,
+5,Tiffany Place Station,8,Zone 3
+6,David Mountains Station,30,Zone 1
+7,Joseph Well Station,17,ZONE 2
+8,Brandt Plains Station,33,Zone 1
+9,Jennifer Locks Station,20,
+10,Kim Path Station,39,Zone 2
+11,Martinez Fork Station,11,ZONE 2
+12,Matthew Radial Station,34,Zone 1
+13,Brianna Avenue Station,32,Zone 1
+14,Jean Circle Station,24,
+15,Carlos Bypass Station,16,Zone 1
+16,Jones Freeway Station,37,Zone 1
+17,Caldwell Forest Station,32,
+18,Jennifer Ports Station,35,
+19,Sanchez Mountains Station,31,ZONE 2
+20,Lee Court Station,34,
+21,Gomez Loop Station,14,ZONE 2
+22,Shields Center Station,13,Zone3
+23,Bruce Stream Station,24,zone 1
+24,Mcbride Coves Station,29,Zone 1
+25,James Plain Station,5,Zone 3
+26,Taylor Falls Station,58,Zone 2
+27,Ford Well Station,1,Zone 1
+28,Scott Wall Station,4,Zone 2
+29,Brent Plains Station,3,
+30,Tanya Terrace Station,33,Zone 2
+31,Gabriel Oval Station,32,Zone 2
+32,Lewis Locks Station,37,ZONE 2
+33,Franklin Alley Station,31,
+34,Baker Tunnel Station,7,Zone 1
+35,Mitchell Square Station,23,zone 1
+36,Moore Hill Station,4,Zone3
+37,Tanya Prairie Station,7,Zone 1
+38,Julie Centers Station,22,
+39,Breanna Parkway Station,16,Zone 2
+40,Brian Pass Station,29,Zone 2
+41,Melissa Cliff Station,18,zone 1
+42,Emma Freeway Station,5,zone 1
+43,Wilson Port Station,36,Zone 1
+44,Beth Canyon Station,35,
+45,Robert Prairie Station,43,
+46,Donovan Ford Station,11,zone 1
+47,Allen Locks Station,14,
+48,Emily Hills Station,4,Zone 2
+49,Stewart Terrace Station,25,Zone 3
+50,Albert Road Station,30,Zone 3
+51,Charles Forest Station,36,Zone3
+52,Anderson Keys Station,10,Zone 2
+53,Natasha Land Station,4,ZONE 2
+54,Moore Village Station,4,Zone3
+55,Carr Valley Station,4,ZONE 2
+56,Elizabeth Plaza Station,34,Zone 2
+57,Huynh Cove Station,33,Zone 1
+58,Joseph Coves Station,5,ZONE 2
+59,Joseph Rapids Station,16,zone 1
+60,Jennifer Ford Station,37,Zone 2
+61,Wagner Glen Station,3,ZONE 2
+62,Christopher Manors Station,38,ZONE 2
+63,Williams Isle Station,17,Zone 2
+64,Dana Greens Station,21,Zone 2
+65,Joyce Plaza Station,9,Zone3
+66,Hoffman Creek Station,30,Zone 3
+67,Sierra Spurs Station,5,Zone 1
+68,Amy Village Station,37,Zone 1
+69,Aguilar Drive Station,14,ZONE 2
+70,Anderson Inlet Station,23,Zone 1
+71,Nolan Underpass Station,24,Zone 3
+72,Rachel Fords Station,35,Zone3
+73,Elizabeth Knoll Station,34,Zone 1
+74,Dickson Summit Station,36,Zone 3
+75,Sara Freeway Station,7,Zone 2
+76,Theresa Valleys Station,7,Zone3
+77,Nicole Burg Station,18,Zone 3
+78,Jill Isle Station,22,Zone 2
+79,Pham Way Station,17,ZONE 2
+80,Joseph Turnpike Station,4,Zone 1
+81,Patrick Camp Station,18,Zone 1
+82,Walker Viaduct Station,45,Zone3
+83,Bailey View Station,11,Zone3
+84,Jeffrey Shoals Station,28,ZONE 2
+85,Raymond Harbors Station,43,Zone3
+86,Tammy Harbors Station,35,Zone 1
+87,May Locks Station,38,ZONE 2
+88,Crosby Crescent Station,9,Zone 1
+89,White Greens Station,3,Zone 3
+90,Daniel Mews Station,16,Zone3
+91,Chandler Island Station,36,
+92,Obrien Pass Station,40,Zone3
+93,Paul Ports Station,16,
+94,Jonathan Station Station,12,zone 1
+95,Smith Valley Station,51,
+96,Michael Cliff Station,16,Zone 3
+97,Hanson Shore Station,7,zone 1
+98,Jennifer Hills Station,31,Zone 2
+99,Estrada Islands Station,30,Zone 3
+100,Terry Plaza Station,15,Zone 2
+101,James Shores Station,47,zone 1
+102,Byrd Extensions Station,5,
+103,Sullivan Village Station,33,zone 1
+104,Kevin Fords Station,35,Zone 3
+105,Floyd Rest Station,8,Zone 3
+106,Marshall Mills Station,17,Zone 1
+107,William Underpass Station,28,Zone 3
+108,Donna Haven Station,21,zone 1
+109,Davis Terrace Station,33,Zone 1
+110,Emily Fork Station,37,Zone 2
+111,Dylan Cape Station,28,Zone 1
+112,Tracey Ridge Station,35,Zone3
+113,Stanley Roads Station,13,Zone 3
+114,Jennifer Lights Station,22,ZONE 2
+115,Ross Drive Station,8,Zone3
+116,Patricia Wall Station,33,Zone 3
+117,Kimberly Forges Station,21,zone 1
+118,Linda Square Station,36,Zone 2
+119,Williams Gateway Station,25,Zone3
+120,Stephen Unions Station,12,ZONE 2
+121,Contreras Points Station,26,ZONE 2
+122,Dodson Mills Station,20,Zone 3
+123,Rivas Plaza Station,38,ZONE 2
+124,Merritt Summit Station,30,zone 1
+125,Cole Terrace Station,14,ZONE 2
+126,Mary Harbor Station,11,Zone3
+127,Sims Harbor Station,33,Zone3
+128,Jones Heights Station,22,Zone 1
+129,Joseph Island Station,16,Zone3
+130,Devon Fort Station,13,Zone 2
+131,Benson Squares Station,48,zone 1
+132,Caleb Lodge Station,5,zone 1
+133,Daniels Mall Station,37,Zone 2
+134,Jamie Manor Station,25,zone 1
+135,Stein Prairie Station,10,Zone3
+136,Melissa Track Station,7,
+137,Woods Knoll Station,12,
+138,Molina Walk Station,34,zone 1
+139,Medina Street Station,16,
+140,Tracy Groves Station,9,
+141,Tucker Loaf Station,34,ZONE 2
+142,Caldwell Union Station,29,ZONE 2
+143,Ramsey Ville Station,33,zone 1
+144,Calhoun Road Station,36,zone 1
+145,Rebecca Ramp Station,31,zone 1
+146,Christopher Meadow Station,16,
+147,Michelle Falls Station,34,zone 1
+148,Jorge Islands Station,18,zone 1
+149,Shawn Junction Station,19,Zone 2
+150,Ramirez Village Station,21,ZONE 2
+151,King Common Station,10,Zone 2
+152,Smith Plains Station,10,Zone3
+153,Zoe Keys Station,27,zone 1
+154,Debra Tunnel Station,30,zone 1
+155,Karen Gateway Station,27,zone 1
+156,Mary Road Station,38,Zone3
+157,John Mountains Station,59,zone 1
+158,Anne Forge Station,23,Zone 3
+159,Lyons Trafficway Station,27,ZONE 2
+160,Jackson Rest Station,35,
+161,Kimberly Estates Station,15,zone 1
+162,Rodriguez Burg Station,28,zone 1
+163,Johnston Lane Station,51,Zone3
+164,David Flat Station,26,Zone3
+165,Brittany Village Station,30,Zone 2
+166,Curtis Trail Station,35,Zone 1
+167,Jefferson Rapid Station,38,ZONE 2
+168,Laura Port Station,6,Zone3
+169,Michael Meadow Station,30,Zone 2
+170,Jones Rue Station,25,Zone 3
+171,Smith Manor Station,21,Zone 3
+172,Garcia Lake Station,25,Zone 3
+173,Zimmerman Mews Station,27,Zone 3
+174,Jessica Run Station,31,Zone 1
+175,Gilbert Plain Station,4,Zone 3
+176,Marshall Views Station,5,
+177,Morris Gardens Station,3,
+178,Joshua Mission Station,16,Zone 2
+179,Karen Port Station,40,Zone 2
+180,Rogers Park Station,31,Zone3
+181,White Forest Station,14,zone 1
+182,Salinas Junctions Station,24,Zone 2
+183,Beard Squares Station,8,
+184,Peters Path Station,20,Zone 1
+185,Christopher Stravenue Station,20,ZONE 2
+186,Freeman Trace Station,25,zone 1
+187,Hannah Rue Station,13,Zone 1
+188,West Brook Station,16,Zone 1
+189,Kelly Lodge Station,20,
+190,Kevin Prairie Station,8,
+191,Kennedy Pines Station,3,Zone 3
+192,Coleman Summit Station,24,Zone 1
+193,Bell Motorway Station,22,Zone 1
+194,Parker Fort Station,32,Zone 1
+195,Jennifer Island Station,24,Zone3
+196,Julia Track Station,30,Zone3
+197,James Streets Station,12,Zone3
+198,Hill Radial Station,18,ZONE 2
+199,Hooper Village Station,35,
+200,Kenneth Lake Station,28,
+201,Kevin Station Station,18,Zone 3
+202,Joshua Center Station,6,Zone 3
+203,Terry Crossroad Station,16,
+204,Garcia Bridge Station,40,Zone3
+205,Harrison Mill Station,2,zone 1
+206,Lopez Center Station,12,zone 1
+207,Everett Neck Station,17,Zone 3
+208,Lynn Locks Station,39,Zone3
+209,Jones Roads Station,36,Zone 1
+210,Edward Valleys Station,13,Zone 1
+211,Miller Gateway Station,27,zone 1
+212,Angela Mall Station,16,Zone3
+213,Kimberly Light Station,32,zone 1
+214,Kerr Hills Station,6,Zone 3
+215,Torres River Station,16,Zone 3
+216,Chelsea Streets Station,24,zone 1
+217,Stacey Fords Station,23,zone 1
+218,Joseph Common Station,36,Zone 3
+219,John Plaza Station,30,Zone 3
+220,Eric Lodge Station,15,Zone 1
